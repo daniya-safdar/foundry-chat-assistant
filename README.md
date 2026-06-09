@@ -15,4 +15,4 @@ pip install -r requirements.txt
 
 ## Run
 
-python chat-app.py
+foundry_chat_assistant.py
